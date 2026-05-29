@@ -28,15 +28,24 @@ jobs:
         with:
           node-version: 20
           cache: npm
+          registry-url: https://registry.npmjs.org
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
       - name: Install dependencies
+        env:
+          npm_config_registry: https://registry.npmjs.org
         run: npm ci --include=dev
 
       - name: Build site
         run: npm run build
+
+      - name: Upload build files
+        uses: actions/upload-artifact@v4
+        with:
+          name: training-app-dist
+          path: ./dist
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
