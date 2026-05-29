@@ -1,0 +1,2349 @@
+{
+  "generatedAt": "2026-05-29T20:08:02.601Z",
+  "phases": [
+    {
+      "id": "phase-1",
+      "label": "Phase 1",
+      "sourceFile": "Phase 1.pdf",
+      "programs": [
+        {
+          "id": "phase-1-strength-mobility-lower-body",
+          "phaseId": "phase-1",
+          "name": "Strength + Mobility: Lower Body",
+          "exercises": [
+            {
+              "id": "phase-1-strength-mobility-lower-body-treadmill-power-walk",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Treadmill Power Walk",
+              "prescription": "1 sets x reps",
+              "description": "*This exercise can also be substituted for any other form of moderate intensity cardio such as cycling, rowing or the cross trainer. I usually walk to the gym to do my workouts so treat that as my warmup.* The purpose here is to raise your internal body temperature, elevate your heart rate and prepare to move in the workout. It is not an essential part of the workout and should you be limited on time and feel warm and able to get straight into the rest of the warmup exercises then go for it and feel free to skip this part.",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 41
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-leg-swings",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Leg swings",
+              "prescription": "1 sets x 10 reps",
+              "description": "Hold onto a solid surface with one arm. Swing legs in three directions for up to 10 reps on each leg per direction. For the forward and side swing movements, you could throw in a hold on the final rep of 10-30 seconds, trying to lift the leg as high as you can in front of you or to the side, to build up strength in this position. If doing a hold, remember to breath and lift the foot as high as possible. Try to keep the legs almost straight but with a slight bend. Don't kick so hard you hurt your hamstrings or groin, start gentle and get more energetic with the movement each swing.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/d5d8308c-307e-11ee-95e4-976b60c228a1",
+              "pageNumber": 41
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-lunge-rotations",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Lunge rotations",
+              "prescription": "1 sets x 6-10 reps",
+              "description": "Setup: Adopt a lunge position on the floor and imagine a string pulling you up to the ceiling/sky from the crown of your head. Cues: Breathe in and as you exhale twist as far to one side as is comfortable and as you inhale come back to face the centre with your torso. Perform 6-10 reps on one side then include the hold, again using your exhales to twist a little further as you push the back of the hand into the outer thigh. Repeat both sides.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/03ea0422-3080-11ee-a401-c3bc255b9d96",
+              "pageNumber": 42
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-superset",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 42
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-split-squat-3-sets-x-8-10-reps-rest-90-sec",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Split Squat: 3 sets x 8-10 reps (rest 90 sec)",
+              "prescription": "Romanian Deadlift (barbell/dumbbell): 3 sets x 8-10",
+              "description": "reps (rest 90 sec) This superset trains two movements together in order to save time. The exercises work well together as a pair. Perform the superset for 3 sets in total. Perform each set of exercise A and B back to back with a 90 second rest between the sets. So do one set of exercise A, rest for 90 seconds do one set of exercise B, rest 90 seconds, do one set of exercise A etc.. Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/9e1ef1a4-2ec5-11ee-904e-ebebfea4c0bc",
+              "pageNumber": 42
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-superset",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "Wide leg squat / horse stance: 3 sets x 8-10",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 43
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-reps-rest-90-sec",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "reps (rest 90 sec)",
+              "prescription": "Cossack Squats: 3 sets x 8-10 reps (rest 90 sec)",
+              "description": "This superset trains two movements together in order to save time. The exercises work well together as a pair. Perform the superset for 3 sets in total. Perform each set of exercise A and B back to back with a 90 second rest between the sets. So do one set of exercise A, rest for 90 seconds do one set of exercise B, rest 90 seconds, do one set of exercise A etc.. Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/2e88b6e8-320f-11ee-8761-b3c17c3e7355",
+              "pageNumber": 43
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-superset",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Knee raises (bodyweight -> weighted): 2 sets x 5-20",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 43
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-reps-rest-60-sec",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "reps (rest 60 sec)",
+              "prescription": "Locust pose (3 Variations): 2 sets x 8-12 reps (rest",
+              "description": "60 sec) Depending on access to equipment, try to perform these two exercises b2b.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/7b419a34-2feb-11ee-9fda-3bb688c00ddb",
+              "pageNumber": 44
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-half-splits-dynamic",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Half Splits (dynamic)",
+              "prescription": "1 sets x 120 sec",
+              "description": "Stretching the Hamstring: Inhale and gently shift your hips back, hinging at your hips. Continue to slide your front foot forward until you feel a stretch in the hamstring of the extended leg. If you feel a strong pull in the back of your knee, bend your knee slightly to reduce the strain. Place your hands on the yoga blocks for support. You can adjust the height of the blocks to find the most comfortable and effective position. Maintain Length in the Spine: Lengthen your spine by reaching your chest forward and keeping your back straight. Avoid rounding your back or collapsing your chest. Flex the foot up and down if it feels good or hold the stretch in a position of toes point forward or up to the ceiling Relax and Breathe: Relax into the stretch and breathe deeply. As you exhale, you may find that you can deepen the stretch slightly. Hold one set for 30-120 seconds",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/20e20972-40c9-11ee-be55-5f95ab8c1bc8",
+              "pageNumber": 44
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-laying-figure-4-stretch",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Laying Figure 4 stretch",
+              "prescription": "1 sets x 120 sec",
+              "description": "Leg Positioning: Cross one ankle over the opposite knee, forming a figure 4\" shape with your legs. Flex the foot of the leg that is elevated to protect your knee joint. Grip: Draw your legs towards you by either gripping the back of your thigh or your shin with fingers interlocked. At the same time keep pressing your tailbone into the floor and don't allow lower back to lift too high off the floor. This should create a stretch in the hip and glute of the crossed leg. You can also gently push the knee of the crossed leg towards the floor to increase the stretch. Repeat on both sides. Hold stretch for 30-120 seconds.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/4e227fae-3078-11ee-9579-f76b9584082c",
+              "pageNumber": 45
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-quad-hip-flexor-stretches",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Quad + hip flexor stretches",
+              "prescription": "1 sets x 120 sec",
+              "description": "Choose the progression that feels comfortable for you and hold the stretch for up to 120 seconds per set.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/e1565910-2ed1-11ee-a1f2-8701e006a5d6",
+              "pageNumber": 46
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-elongated-exhales",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x reps",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 46
+            },
+            {
+              "id": "phase-1-strength-mobility-lower-body-and-back-out-again",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-lower-body",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 47
+            }
+          ]
+        },
+        {
+          "id": "phase-1-cardio-mobility-upper-body",
+          "phaseId": "phase-1",
+          "name": "Cardio + Mobility: Upper Body",
+          "exercises": [
+            {
+              "id": "phase-1-cardio-mobility-upper-body-assault-bike-fan-bike",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Assault Bike (Fan bike)",
+              "prescription": "2 sets x 4 min (rest 180 sec)",
+              "description": "*This can be substituted for another cardio machine at the gym if there is not an Assault Bike* Each set consists of 4 minutes. You will perform a 20 second sprint, followed by 10 seconds of rest, throughout the 4 minutes. In total each set you will therefore do 8x20 seconds sprints. In the sprints work HARD and you will build a great cardiovascular base and your anaerobic capacity will improve. You can add extra sets if you have the energy and time.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/3d54a2c8-7741-11ee-b6ad-2f265fb45e28",
+              "pageNumber": 48
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-vinyasa-options-x3",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Vinyasa options (x3)",
+              "prescription": "2 sets x 5 reps (rest 60 sec)",
+              "description": "Instructions contained in video, let me know if you have any questions:) Choose the option suitable for you. Down dog cues: you are trying to create an inverted V shape with your body. - Feet and hands about hip width a part. - Straighten legs as much as possible sending heels towards floor. Bending knees is absolutely fine, you should feel a stretch in the backs of the legs. - PUSH the floor away with both hands to elevate the shoulder blades and wrap you elbows in by internally rotating your shoulders (imagine squeezing an orange in your armpit) and this should help engage your lats and shoulder muscles - Active fingers - if someone came to you and tried to lift your finger up from the floor they should find this difficult - this is how you know your fingers are active. - Look at the space between your feet and ensure a neutral spine from top of head to base of spine.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/206b4ddc-2ee0-11ee-abb7-37971290094e",
+              "pageNumber": 48
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-neck-stretch-sequence",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Neck stretch sequence",
+              "prescription": "1 sets x 5 min",
+              "description": "Hold each stretch for 30-60 seconds. Be gentle with all these stretches to avoid straining your neck.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/edd0d6a0-2edd-11ee-a99c-fb03d34a6aa8",
+              "pageNumber": 49
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-lat-stretch",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Lat stretch",
+              "prescription": "1 sets x 60 sec",
+              "description": "See video for instructions and let me know if you have any questions:) Corskcrew Shoulders 1 sets x 20 reps Perform until you start to feel the a slight burn in the shoulders. Option to add weights to the hands to make it more challenging. I recommend 1-5kg per hand. Rotate the arm in the shoulder joint as far as it will go without pain. Each arm will be rotated the opposite way to the other each rep so you know if you're doing it correctly if you look at one arm and the palm is facing up and you look to the other arm and the palm is facing down.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/fc239e70-2edf-11ee-8161-cb6891b7492f",
+              "pageNumber": 49
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-shoulder-dislocations",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Shoulder dislocations",
+              "prescription": "2 sets x 6-8 reps (rest 60 sec)",
+              "description": "A mobility exercise that helps improve shoulder flexibility and range of motion. will use the full capacity of your shoulder joint. Cues: Try to elevate your shoulder blades as you lift up the band/bar then as you draw it behind you, retract and depress your shoulder blades. Tip: shake out your arms between sets to help you recover for the next set. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/b6b11bee-2edd-11ee-89a9-63a61749e898",
+              "pageNumber": 50
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-cuban-rotations",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Cuban rotations",
+              "prescription": "2 sets x 8-10 reps (rest 60 sec)",
+              "description": "A great shoulder mobility exercise that targets the rotator cuff muscles. Cues: Engage Your Core: Brace your core muscles to stabilize your spine throughout the movement. Keep your torso upright and avoid arching your lower back. Rotational Movement: As you rotate in the movement, retract your shoulder blade back. Aim to keep your elbows at shoulder height. The emphasis with this exercise should be on maintaining proper form and control rather than using heavy weights. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/040eeef8-2ed8-11ee-b9c3-f3b0520aa360",
+              "pageNumber": 50
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-hang-passive-active",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Hang (passive -> active)",
+              "prescription": "2 sets x 30 sec (rest 60 sec)",
+              "description": "Passive hanging from a bar is a beneficial exercise for stretching and decompressing the shoulder joint and spine, improving grip strength, and promoting overall shoulder health. Active hanging builds strength in the shoulders and upper back as well as improves overhead mobility in the shoulder flexion movement. Variation 1: Supported passive hang. Find a bar or rings of a height that allows you to have both feet on the floor. With hands shoulder width a part, grip the bar and lower yourself into a hang position with the feet supporting you as little as possible. Be light on the toes so you build strength in the shoulders. Variation 2: Make the above harder by picking up one foot so your shoulders have to work harder Variation 3: Hang passively with both feet lifted Variation 4: Make the hang active by bringing your knees in front of you and engage your core by adopting posterior pelvic tilt (hips and tailbone thrusted forward and rounding in lower back) Variation 5: Make this active hang harder by locking out the legs Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/9c78947e-2ed2-11ee-b2d6-bf59324bcf47",
+              "pageNumber": 51
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-superset",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-shoulder-upper-back-opener-bent-arm-straight",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Shoulder/upper back opener (bent arm -> straight",
+              "prescription": "arm) : 2 sets x 6-10 reps (rest 60 sec)",
+              "description": "Overhead pullovers: 2 sets x 6-10 reps (rest 60 sec) Perform these exercises back to back with 60 secs rest between each set.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/77db9bfc-2ed7-11ee-b4d1-cf5fc89b13a5",
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-1-cardio-mobility-upper-body-shoulder-stretch-sequence",
+              "phaseId": "phase-1",
+              "programId": "phase-1-cardio-mobility-upper-body",
+              "name": "Shoulder stretch sequence",
+              "prescription": "1 sets x reps",
+              "description": "This sequence contains 5 shoulder stretches that you can try and choose the ones that feel very beneficial. Complete sequence in full for 1-2 sets. Hold each stretch for 30-120 seconds depending on time. Let me know if you have any questions:)",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/6eb3ee40-2ee0-11ee-b952-9f3247e41f06",
+              "pageNumber": 53
+            }
+          ]
+        },
+        {
+          "id": "phase-1-run-2-interval-session",
+          "phaseId": "phase-1",
+          "name": "Run 2 (Interval session)",
+          "exercises": [
+            {
+              "id": "phase-1-run-2-interval-session-1-round",
+              "phaseId": "phase-1",
+              "programId": "phase-1-run-2-interval-session",
+              "name": "1 round",
+              "prescription": "Leg swings : 1 sets x 10 reps",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 54
+            },
+            {
+              "id": "phase-1-run-2-interval-session-hip-hinges-1-sets-x-10-reps",
+              "phaseId": "phase-1",
+              "programId": "phase-1-run-2-interval-session",
+              "name": "Hip Hinges: 1 sets x 10 reps",
+              "prescription": "Split Squat: 1 sets x 10 reps",
+              "description": "Perform bodyweight variations of these exercises as a warmup before your run.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/d5d8308c-307e-11ee-95e4-976b60c228a1",
+              "pageNumber": 54
+            },
+            {
+              "id": "phase-1-run-2-interval-session-running",
+              "phaseId": "phase-1",
+              "programId": "phase-1-run-2-interval-session",
+              "name": "Running",
+              "prescription": "5 sets x 800 m (rest 120 sec)",
+              "description": "5 efforts of 800m with a 2 minute rest. You can either rest completely or adopt a slower run to recover. Try to find a nice route or better still a park or area with grass to do this on. Alternatively you could use a treadmill, ideally a curved running machine at the gym. Each session you can add 100m to each set: Session 1: 5x800m (4km total) Session 2: 5x900m (4.5km total) Session 3: 5x1km (5km total) Session 4: 5x1.1km (5.5km total) Session 5: 5x1.2km (6km total) Superset",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/10a2bcc2-64de-11ed-b265-8b038d658eed",
+              "pageNumber": 54
+            },
+            {
+              "id": "phase-1-run-2-interval-session-1-round",
+              "phaseId": "phase-1",
+              "programId": "phase-1-run-2-interval-session",
+              "name": "1 round",
+              "prescription": "Laying Figure 4 stretch : 1 sets x 10-15 breaths",
+              "description": "Calf Stretch (passive -> active -> weighted): 1 sets x 15 breaths",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 55
+            },
+            {
+              "id": "phase-1-run-2-interval-session-leg-lift-hamstring-stretch-weighted-and-non",
+              "phaseId": "phase-1",
+              "programId": "phase-1-run-2-interval-session",
+              "name": "Leg lift hamstring stretch (weighted and non-",
+              "prescription": "weighted): 1 sets x 15 breaths",
+              "description": "Post run stretch to open up the body",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/4e227fae-3078-11ee-9579-f76b9584082c",
+              "pageNumber": 55
+            }
+          ]
+        },
+        {
+          "id": "phase-1-strength-mobility-upper-body",
+          "phaseId": "phase-1",
+          "name": "Strength + Mobility: Upper Body",
+          "exercises": [
+            {
+              "id": "phase-1-strength-mobility-upper-body-treadmill-power-walk",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Treadmill Power Walk",
+              "prescription": "1 sets x 10 min",
+              "description": "*This exercise can also be substituted for any other form of moderate intensity cardio such as cycling, rowing or the cross trainer. I usually walk to the gym to do my workouts so treat that as my warmup.* The purpose here is to raise your internal body temperature, elevate your heart rate and prepare to move in the workout. It is not an essential part of the workout and should you be limited on time and feel warm and able to get straight into the rest of the warmup exercises then go for it and feel free to skip this part. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 57
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-wrist-mobility-9-movements",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Wrist mobility (9 movements)",
+              "prescription": "1 sets x 2 min",
+              "description": "The instructional video is an overview of a wrist mobility and stretch sequence containing 9 variations. Depending on your wrist strength and mobility different variations will feel more/less challenging. I recommend choosing 2-5 of these movements and performing them in one go, spending 20-60 seconds performing each of the chosen wrist exercises, depending on how they feel. For those with a dynamic movement (e.g. wrist rocks with fists clenched or palm lifts), move GENTLY though the movement. To make them harder, lean you shoulders more forwards to add the intensity of demand onto your wrists. To finish or within the set, shake out your hands and avoid creating any pain in your wrists. Remember, this is a WARM-UP, not a workout. Do enough to warm up and stretch your wrist, but not enough to hurt or fatigue them. You don’t want them tired before you train. You just want strength, mobility, and warmth. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f8f5e204-3078-11ee-935c-3f78d333851d",
+              "pageNumber": 57
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-cow-cat-variations",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Cow/cat variations",
+              "prescription": "1 sets x 20 breaths",
+              "description": "Choose a variation that feels pleasant for opening up the muscles around your spine and across your back. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/20ea7316-2ede-11ee-8ca6-7f17ba707cda",
+              "pageNumber": 58
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-spinal-rotation-movements-dynamic-passive",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Spinal rotation movements (dynamic + passive)",
+              "prescription": "1 sets x 10 reps",
+              "description": "Choose a variation that feels good and remember to perform on both sides. Combine repetitions with a hold in the twist position of 15-30 seconds at the end of the set if it feels comfortable. Twist further on your exhales. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/60170112-2ede-11ee-bf85-3b9e2293ab02",
+              "pageNumber": 58
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-scapula-movements",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Scapula movements",
+              "prescription": "1 sets x 40 reps",
+              "description": "Perform these movements for up to 10 reps per movement (so up to 40 total): Retraction Protraction Elevation Depression Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/621180e2-2edd-11ee-8abe-879fc2fe28e5",
+              "pageNumber": 59
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-hanging-shrugs",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Hanging shrugs",
+              "prescription": "1 sets x 10 reps",
+              "description": "Starting Position: Hang from a pull-up bar or rings with an overhand grip (palms facing away from you). Allow your body to fully extend, and your feet should not touch the ground. HOWEVER If this exercise is too challenging to perform with feet off the floor, you should place a small step or box under you and place your toes or feet onto it JUST enough to support you in the position as you do the shrugs. Try to use as little support from the feet as possible so you build your strength in your shoulders. Engage Core and Maintain Body Alignment: Tilt your pelvis forwards (anterior tilt) to engage core and build shoulder mobility. Maintain a straight body alignment from head to heels. Avoid excessive swinging or arching of your back. Initiate the Movement: Begin the exercise by actively pulling your shoulder blades down and back. Imagine you are trying to squeeze a pen between your shoulder blades. Shrug Movement: Reverse the movement by elevating your shoulder blades towards your ears, contracting your upper back muscles. Keep your arms straight throughout the movement. Avoid fully relaxing your shoulders at the bottom to maintain tension on the muscles. Focus on the muscles in your upper back to lift and lower your shoulder blades. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/249607a4-307e-11ee-8605-8774915fb732",
+              "pageNumber": 59
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-superset-1",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Superset 1",
+              "prescription": "3 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 60
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-push-ups-variations-incline-dumbbell-rings-3",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Push ups variations (incline -> dumbbell -> rings): 3",
+              "prescription": "sets x 8-10 reps (rest 90 sec)",
+              "description": "Bodyweight Row -> Arc Rows: 3 sets x 8-10 reps (rest 90 sec) This superset trains a push and pull movement together in order to save time. The exercises work well together as a pair because they work antagonistic muscle groups. As your muscles used in the push movement recover, you perform the pull movement and vis versa. Perform the superset for 3 sets in total. Perform each set of exercise A and B back to back with a 90 second rest between the sets. So do one set of exercise A, rest for 90 seconds do one set of exercise B, rest 90 seconds, do one set of exercise A etc.. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/bb27a3fc-3048-11ee-b905-7b7e30ba3e44",
+              "pageNumber": 60
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-superset-2",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Superset 2",
+              "prescription": "3 rounds",
+              "description": "Single arm dumbbell press: 3 sets x 8-10 reps (rest",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 61
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-90-sec",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "90 sec)",
+              "prescription": "Pull up + chin up progressions: 3 sets x 8-10",
+              "description": "reps (rest 90 sec) This superset trains a push and pull movement together in order to save time. The exercises work well together as a pair because they work antagonistic muscle groups. As your muscles used in the push movement recover, you perform the pull movement and vis versa. Perform the superset for 3 sets in total. Perform each set of exercise A and B back to back with a 90 second rest between the sets. So do one set of exercise A, rest for 90 seconds do one set of exercise B, rest 90 seconds, do one set of exercise A etc.. Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/7b7f7610-313f-11ee-a1cc-83fd9dbd11af",
+              "pageNumber": 61
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-locust-pose-3-variations",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Locust pose (3 Variations)",
+              "prescription": "2 sets x 8-10 reps (rest 90 sec)",
+              "description": "Lay flat on your front and choose one of the three variations to perform. The variations get more intense each time, but choose one in which you feel suites the intensity required to strengthen your lower and upper back. Variation 1: arms extended behind you with thumbs facing up (shoulders in external rotation) Variation 2: arms bent at 90 degrees, thumbs facing the sky, retract shoulder blades as you lift up. Variation 3: arms extended ahead of you with thumbs facing up Cues for all variations: 1. Take a breath in and as you breathe out lift your chest as high as you can and lift your feet off the floor and thighs off the floor as much as possible (they may not even come off the floor when first trying this exercise. Try to create a curved C-shape with your body from your feet to you head. ALWAYS squeeze your glutes hard in this position to protect your lower back and build strength. Perform for reps but as in the video, hold the top position for 2-3 seconds each rep. You may wish to decompress your spine after performing this exercise by trying a child's pose or rag doll pose.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/20e20972-40c9-11ee-be55-5f95ab8c1bc8",
+              "pageNumber": 61
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-lat-stretch",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Lat stretch",
+              "prescription": "1 sets x 60 sec",
+              "description": "See video for instructions and let me know if you have any questions:) Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/fc239e70-2edf-11ee-8161-cb6891b7492f",
+              "pageNumber": 62
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-elongated-exhales",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 30 breaths",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 63
+            },
+            {
+              "id": "phase-1-strength-mobility-upper-body-and-back-out-again",
+              "phaseId": "phase-1",
+              "programId": "phase-1-strength-mobility-upper-body",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 63
+            }
+          ]
+        },
+        {
+          "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+          "phaseId": "phase-1",
+          "name": "Mobility: Lower Body (Could also be done after a run session)",
+          "exercises": [
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-treadmill-power-walk",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Treadmill Power Walk",
+              "prescription": "1 sets x 10 min",
+              "description": "*This exercise can also be substituted for any other form of moderate intensity cardio such as cycling, rowing or the cross trainer. I usually walk to the gym to do my workouts so treat that as my warmup.* The purpose here is to raise your internal body temperature, elevate your heart rate and prepare to move in the workout. It is not an essential part of the workout and should you be limited on time and feel warm and able to get straight into the rest of the warmup exercises then go for it and feel free to skip this part.",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-toe-stretch",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Toe stretch",
+              "prescription": "1 sets x 10-20 reps",
+              "description": "Use a support like a bench or pole to hold onto and keep you stable. As you get better, you can stop holding onto this and start to balance. Try not to dump your weight into your knees and slam them into the floor but lightly tap the floor each rep. Feel the stretch in your toes and pause at the bottom of each rep if the stretch feels good. Internal Hip Rotation Progressions (seated ->",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/c32442e4-3071-11ee-b392-ebe96b1f7501",
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-squat",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "squat)",
+              "prescription": "1 sets x 10-20 reps",
+              "description": "Variation 1 - Seated version: Cues: Sit on floor with hands behind your hips and use this to sit your torso as upright as possible. Legs are bent, feet on the floor. Feet can be placed slightly wider than hips. Allow knee to come inwards down to the floor to internally rotate the leg in the hip joint. Try to limit how much your torso rotates in the direction of the stretch and get knee as close to the floor as possible. This is your femur bone rotating internally towards the floor. Perform the rotation for 10-20 reps each side and then include a hold at the end of the set for around 30 seconds. You should feel the stretch in your adductors and/or hips and will likely feel some sensations in the knee. Avoid pain but tightness is fine. Variation 2 - Hips raised version: The same as variation 1, but you lift your hips into the air to make the exercise more intense. Variation 3 - Perform the internal rotation from a squat position. Variation 4 - Perform the squat variation but allow both your hips to lower to the floor and find an external rotation with the opposition hip. Use your hands or fingertips to support you. Variation 5 - Same as variation 4 but perform without the support of your hands or fingertips on the floor.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f90af38a-3e8b-11ee-89c5-1be45e7b463a",
+              "pageNumber": 66
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-cow-cat-variations",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Cow/cat variations",
+              "prescription": "1 sets x 10 reps",
+              "description": "Choose a variation that feels pleasant for opening up the muscles around your spine and across your back. Inhale as you lift the chest and come into the cow position, exhale as you round the back and dome the shoulders into the cat position.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/20ea7316-2ede-11ee-8ca6-7f17ba707cda",
+              "pageNumber": 67
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-calf-stretch-passive-active-weighted",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Calf Stretch (passive -> active -> weighted)",
+              "prescription": "2 sets x 120 sec",
+              "description": "Perform the passive calves stretch for 1-2 sets (depending on time), then perform the single/double leg active stretch after for 1-2 sets (again depending on how much time you have). Passive calves stretch: Hold for 2 minutes on each side per set. Single or double leg active stretch: Choose one which feels better for you. Perform 5-10 hinges per set and hold a small weight whilst you do the hinges if it feels good. Once you have done the hinges, add in a hold of 10-30 seconds at the end of the set, going deeper into the stretch every exhale. Of course if doing single legs, repeat on both sides for the same duration with the same weight. All information within the instructional video.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/13432efa-3218-11ee-89bb-d740ac36113b",
+              "pageNumber": 67
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-jefferson-curl-regular",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Jefferson Curl (regular)",
+              "prescription": "2 sets x reps (rest 90 sec)",
+              "description": "Exercise instructions all contained in video.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/a33e9a2e-308f-11ee-a9bc-973a919acd5f",
+              "pageNumber": 68
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-pigeon-stretch-passive-active-weighted",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Pigeon stretch (passive -> active -> weighted)",
+              "prescription": "2 sets x 60-120 sec (rest 60 sec)",
+              "description": "This is predominantly an external hip rotation position that stretches and strengthens the hips and glutes. It can also be great for alleviating lower back pain. It can be REALLY unpleasant to start with, but trust me it gets easier with time! The video provides variations, from passive to weighted active. We will get comfortable in one before progressing. General cues that apply to all: Hip Alignment - try to get your hips squared to the front of the mat or the way you are facing. The hip of the extended leg should be facing down towards the floor to allow for a deep hip stretch. Spine Alignment: Keep your spine straight and elongated. Avoid rounding your back or collapsing in the upper body. If folding forward, lead with your chest. Weight Distribution: Try to distribute your weight evenly between your hips. Avoid putting too much pressure on one side, as it may lead to an imbalanced stretch. Modification: Depending on your flexibility, you can adjust the position of your front foot and back leg to find the most comfortable and effective stretch for your hips. Ideally you want to work towards the front leg's shin being at a 45 degree angle and when you look to your back foot, see that it is in line with the hip of the same leg and hasn't drifted out to the side too much. For a deeper stretch, you can walk your hands forward, bringing your chest closer to the mat. Breathing and Relaxation: Take deep, slow breaths as you hold the pigeon stretch. With each exhale, try to relax and sink deeper into the stretch, allowing your body to release tension. If doing reps, try to time each rep with your inhale/exhale.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/3b10405e-2ecf-11ee-aef5-f37e927adcd3",
+              "pageNumber": 68
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-frog-stretch",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Frog stretch",
+              "prescription": "2 sets x 60-120 sec (rest 90 sec)",
+              "description": "Starting Position: Begin in a tabletop/all fours position on your hands and knees. Align your wrists under your shoulders and your knees under your hips. Then slowly slide your knees apart, wider than your hips, while keeping your ankles in line with your knees. Allow your toes to turn slightly outward. Alignment and Engagement: Gently press your hips back towards your heels, feeling a stretch in your inner thighs and groin. Keep your spine neutral, maintaining a slight arch in your lower back. Avoid excessive pressure or pushing; listen to your body and only go as far as you can comfortably. Breathing: Take slow and deep breaths. Inhale deeply, and as you exhale, allow your body to relax and sink further into the stretch. Variations x3: The video shows 3 variations you can try whilst holding the position. Variation 1: Rock hips forward and back, try to keep glutes engaged Variation 2: Pick up one foot at the time to internally rotate at the hip and get more comfortable in the position Variation 3: actively try to push your knees outwards to open the gap between them, doing so will engage your glute muscles. Actively push for 5 seconds, rest 5 seconds, push, rest etc.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/6f23d74a-313e-11ee-af6b-df99bc8f370b",
+              "pageNumber": 70
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-good-mornings-seated",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Good mornings (seated)",
+              "prescription": "2 sets x 8-10 reps (rest 90 sec)",
+              "description": "This exercise targets the lower back, hamstrings, and glutes. Starting Position: Sit on a flat bench with your feet flat on the floor and your knees bent at approximately a 90-degree angle. Posture: Sit up tall with a straight back and engage your core for stability. Neutral Neck: Keep your neck in a neutral position, aligned with your spine. Avoid straining or looking up. Hip Hinge: Inhale and initiate the movement by hinging at your hips, pushing your buttocks backward and leaning your upper body forward. Back Angle: Lean forward until your back starts to round, at that point come back to the starting position of the rep. Controlled Descent: Lower your upper body in a controlled manner, feeling a stretch in your hamstrings and tension in your lower back. Hip Extension: Exhale and use your glutes and hamstrings to return to the starting position by pushing your hips forward. Neutral Spine: Throughout the movement, keep your spine in a neutral position, avoiding any rounding or arching of the back. Gaze: Keep your gaze focused straight ahead or slightly downward to maintain proper alignment.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/5e19abc4-2fe9-11ee-a711-771c56327565",
+              "pageNumber": 71
+            },
+            {
+              "id": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session-supine-twist",
+              "phaseId": "phase-1",
+              "programId": "phase-1-mobility-lower-body-could-also-be-done-after-a-run-session",
+              "name": "Supine twist",
+              "prescription": "1 sets x 60-120 sec",
+              "description": "Cues for one side (but perform on both sides): Starting position: Begin by lying on your back with your legs extended and arms out to the sides, forming a \"T\" shape. Keep your shoulders grounded and relaxed, and your palms facing up. Bend the knee: Bend your right knee and draw it toward your chest. Keep your left leg extended and actively pressing into the mat. Twist your hips: Gently lower your right knee across your body toward the left side. As you do this my top tip is to scooch your hips back to the centre of where you are lying slightly, this will help you twist more in the position. Turn your head to look in the opposite direction of your bent knee. Relax and Breathe: Allow your body to relax into the twist. Take slow, deep breaths, and with each exhale, try to deepen the twist slightly if it feels comfortable. Avoid over-rotating: Be mindful not to force your knee all the way to the ground if it doesn't naturally reach there. The goal is to feel a gentle stretch without straining the spine or hips and create a 'corkscrew' twist in the spine.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/d05cca66-2ed8-11ee-b5a4-af01b33ec16c",
+              "pageNumber": 72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase-2",
+      "label": "Phase 2",
+      "sourceFile": "Phase 2.pdf",
+      "programs": [
+        {
+          "id": "phase-2-strength-mobility-lower-body-focus-1",
+          "phaseId": "phase-2",
+          "name": "Strength + Mobility: Lower Body Focus 1",
+          "exercises": [
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-assault-bike-fan-bike",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Assault Bike (Fan bike)",
+              "prescription": "1 sets x 50 kcal",
+              "description": "Complete as fast as you can, starting slow, increasing intensity throughout the set as you get warm. Try to beat your time from the previous session each week to hit 50cals. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/3d54a2c8-7741-11ee-b6ad-2f265fb45e28",
+              "pageNumber": 42
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-duck-walk",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Duck Walk",
+              "prescription": "2 sets x 30 sec (rest 30 sec)",
+              "description": "Cues: From squat position take small steps forward, allow knee to come over toes and maintain upright torso. This exercise can be challenging so dont worry if you are unable to do it just yet. If done correctly it can be great for stretching the toes and opening up the hips. Rest 30 sec before continuing Internal Hip Rotation Progressions (seated ->",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/900ff1d8-3219-11ee-98aa-7b8dae61ffb8",
+              "pageNumber": 42
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-squat",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "squat)",
+              "prescription": "2 sets x 10-20 reps (rest 30 sec)",
+              "description": "Variation 1 - Seated version: Cues: Sit on floor with hands behind your hips and use this to sit your torso as upright as possible. Legs are bent, feet on the floor. Feet can be placed slightly wider than hips. Allow knee to come inwards down to the floor to internally rotate the leg in the hip joint. Try to limit how much your torso rotates in the direction of the stretch and get knee as close to the floor as possible. This is your femur bone rotating internally towards the floor. Perform the rotation for 10-20 reps each side and then include a hold at the end of the set for around 30 seconds. You should feel the stretch in your adductors and/or hips and will likely feel some sensations in the knee. Avoid pain but tightness is fine. Variation 2 - Hips raised version: The same as variation 1, but you lift your hips into the air to make the exercise more intense. Variation 3 - Perform the internal rotation from a squat position. Variation 4 - Perform the squat variation but allow both your hips to lower to the floor and find an external rotation with the opposition hip. Use your hands or fingertips to support you. Variation 5 - Same as variation 4 but perform without the support of your hands or fingertips on the floor. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f90af38a-3e8b-11ee-89c5-1be45e7b463a",
+              "pageNumber": 42
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-hip-hinges",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Hip Hinges",
+              "prescription": "2 sets x 6-8 reps (rest 30 sec)",
+              "description": "Hip Hinges: The main goal is to use your posterior chain (glutes and hamstrings) to power the movement. Try the variations and see which one feels good at this stage. Options include: - feet shoulder width a part or wide - knees bent or straight - bodyweight/weight added - no pause/ isometric pause at bottom of each rep Cues: 1. Stand Tall with Neutral Spine. 2. Engage your core muscles to stabilize your spine. Ensure your back is in a neutral position, neither rounded nor overly arched. 3. Initiate the Movement from the Hips so as you start the hip hinge, push your hips back and lead forward with your chest. 4. Maintain a Soft Bend in the Knees unless you are very flexible and can keep the legs straight whilst hinging forward without rounding in the lower back. 5. Try to maintain a straight sine from the crown of your head to your hips. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/1c8945b6-2ec7-11ee-9f1a-a3a214df806b",
+              "pageNumber": 44
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 44
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-deadlift-barbell-3-sets-x-6-8-reps-rest-90-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Deadlift - barbell: 3 sets x 6-8 reps (rest 90 sec)",
+              "prescription": "Squats (bodyweight ->back squat -> pistol): 3 sets x",
+              "description": "6-8 reps (rest 90 sec) Lower Body Strength Superset. You can do these separately if you are not able to superset them due to space/equipment. Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/35795e3e-8003-11ee-8d93-f39f53ab8de5",
+              "pageNumber": 44
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Jefferson Curl (Variations): 2 sets x 6-8 reps (rest 30 sec) Pigeon stretch (passive -> active -> weighted): 2 sets x 90 sec (rest 30 sec) Perform exercises A and B back to back with a short break between each. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/38b6ddb6-2ecc-11ee-a57f-cb78c57d65d8",
+              "pageNumber": 45
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Quad + hip flexor stretches: 2 sets x 120 sec (rest 30 sec)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 45
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-leg-lift-hamstring-stretch-weighted-and-non",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Leg lift hamstring stretch (weighted and non-",
+              "prescription": "weighted): 2 sets x 120 sec (rest 30 sec)",
+              "description": "Perform these exercises back to back to prepare for the front splits Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/e1565910-2ed1-11ee-a1f2-8701e006a5d6",
+              "pageNumber": 46
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-elongated-exhales",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 10-30 breaths",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 46
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-focus-1-and-back-out-again",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-focus-1",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 47
+            }
+          ]
+        },
+        {
+          "id": "phase-2-strength-upper-body-gym",
+          "phaseId": "phase-2",
+          "name": "Strength: Upper Body (Gym)",
+          "exercises": [
+            {
+              "id": "phase-2-strength-upper-body-gym-wrist-mobility-9-movements",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Wrist mobility (9 movements)",
+              "prescription": "2 sets x 2 min (rest 60 sec)",
+              "description": "The instructional video is an overview of a wrist mobility and stretch sequence containing 9 variations. Depending on your wrist strength and mobility different variations will feel more/less challenging. I recommend choosing 2-5 of these movements and performing them in one go, spending 20-60 seconds performing each of the chosen wrist exercises, depending on how they feel. For those with a dynamic movement (e.g. wrist rocks with fists clenched or palm lifts), move GENTLY though the movement. To make them harder, lean you shoulders more forwards to add the intensity of demand onto your wrists. To finish or within the set, shake out your hands and avoid creating any pain in your wrists. Remember, this is a WARM-UP, not a workout. Do enough to warm up and stretch your wrist, but not enough to hurt or fatigue them. You don’t want them tired before you train. You just want strength, mobility, and warmth. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f8f5e204-3078-11ee-935c-3f78d333851d",
+              "pageNumber": 48
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-spinal-rotation-movements-dynamic-passive",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Spinal rotation movements (dynamic + passive)",
+              "prescription": "1 sets x 10 reps",
+              "description": "Choose a variation that feels good and remember to perform on both sides. Combine repetitions with a hold in the twist position of 15-30 seconds at the end of the set if it feels comfortable. Twist further on your exhales. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/60170112-2ede-11ee-bf85-3b9e2293ab02",
+              "pageNumber": 48
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-scapula-movements",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Scapula movements",
+              "prescription": "1 sets x 40 reps",
+              "description": "Hold a small weight in each hand to progress these movements and build shoulder strength (1-4kg) Perform these movements for up to 10 reps per movement (so up to 40 total): Retraction Protraction Elevation Depression Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/621180e2-2edd-11ee-8abe-879fc2fe28e5",
+              "pageNumber": 49
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-hanging-shrugs",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Hanging shrugs",
+              "prescription": "2 sets x 5-10 reps",
+              "description": "Starting Position: Hang from a pull-up bar or rings with an overhand grip (palms facing away from you). Allow your body to fully extend, and your feet should not touch the ground. HOWEVER If this exercise is too challenging to perform with feet off the floor, you should place a small step or box under you and place your toes or feet onto it JUST enough to support you in the position as you do the shrugs. Try to use as little support from the feet as possible so you build your strength in your shoulders. Engage Core and Maintain Body Alignment: Tilt your pelvis forwards (anterior tilt) to engage core and build shoulder mobility. Maintain a straight body alignment from head to heels. Avoid excessive swinging or arching of your back. Initiate the Movement: Begin the exercise by actively pulling your shoulder blades down and back. Imagine you are trying to squeeze a pen between your shoulder blades. Shrug Movement: Reverse the movement by elevating your shoulder blades towards your ears, contracting your upper back muscles. Keep your arms straight throughout the movement. Avoid fully relaxing your shoulders at the bottom to maintain tension on the muscles. Focus on the muscles in your upper back to lift and lower your shoulder blades. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/249607a4-307e-11ee-8605-8774915fb732",
+              "pageNumber": 49
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "Pull up + chin up progressions: 3 sets x 6-8 reps (rest",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 51
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-90-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "90 sec)",
+              "prescription": "Chest press (neutral grip with dumbbell): 3 sets x 6-8",
+              "description": "reps This superset trains a push and pull movement together in order to save time. The exercises work well together as a pair because they work antagonistic muscle groups. As your muscles used in the push movement recover, you perform the pull movement and vis versa. Perform the superset for 3 sets in total. Perform each set of exercise A and B back to back with a 90 second rest between the sets. So do one set of exercise A, rest for 90 seconds do one set of exercise B, rest 90 seconds, do one set of exercise A etc.. Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/9b5f872a-3141-11ee-9857-1769e5c76463",
+              "pageNumber": 51
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "Single arm row (dumbbell): 3 sets x 6-8 reps (rest 90",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 51
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "sec)",
+              "prescription": "Dumbbell Shoulder Press: 3 sets x 8 reps (rest 90",
+              "description": "sec) This superset trains a push and pull movement together in order to save time. The exercises work well together as a pair because they work antagonistic muscle groups. As your muscles used in the push movement recover, you perform the pull movement and vis versa. Perform the superset for 3 sets in total. Perform each set of exercise A and B back to back with a 90 second rest between the sets. So do one set of exercise A, rest for 90 seconds do one set of exercise B, rest 90 seconds, do one set of exercise A etc.. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/2d5d892a-3074-11ee-ad85-7b49ba822d69",
+              "pageNumber": 51
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "Bicep curl (regular with dumbbell): 3 sets x 8-12",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-reps-rest-60-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "reps (rest 60 sec)",
+              "prescription": "Tricep extensions (dumbbell) : 3 sets x 8-12",
+              "description": "reps (rest 60 sec) Arms focused superset Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/215a1fb6-800c-11ee-b539-13a25a00cabe",
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-lat-stretch",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Lat stretch",
+              "prescription": "1 sets x 60 sec",
+              "description": "See video for instructions and let me know if you have any questions:) Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/347c3f52-2fe4-11ee-8636-e30f7b712027",
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-shoulder-stretch-sequence",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Shoulder stretch sequence",
+              "prescription": "1 sets x 5 min",
+              "description": "This sequence contains 5 shoulder stretches that you can try and choose the ones that feel very beneficial. Complete sequence in full for 1-2 sets. Hold each stretch for 30-120 seconds depending on time. Let me know if you have any questions:)",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/6eb3ee40-2ee0-11ee-b952-9f3247e41f06",
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-2-strength-upper-body-gym-elongated-exhales",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-upper-body-gym",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 10-30 breaths",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs and back out again). For up to 10-30 rounds of breath, exhale for twice the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 53
+            }
+          ]
+        },
+        {
+          "id": "phase-2-interval-cardio-session",
+          "phaseId": "phase-2",
+          "name": "Interval Cardio Session",
+          "exercises": [
+            {
+              "id": "phase-2-interval-cardio-session-leg-swings",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Leg swings",
+              "prescription": "1 sets x 10 reps",
+              "description": "Hold onto a solid surface with one arm. Swing legs in three directions for up to 10 reps on each leg per direction. For the forward and side swing movements, you could throw in a hold on the final rep of 10-30 seconds, trying to lift the leg as high as you can in front of you or to the side, to build up strength in this position. If doing a hold, remember to breath and lift the foot as high as possible. Try to keep the legs almost straight but with a slight bend. Don't kick so hard you hurt your hamstrings or groin, start gentle and get more energetic with the movement each swing. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/d5d8308c-307e-11ee-95e4-976b60c228a1",
+              "pageNumber": 55
+            },
+            {
+              "id": "phase-2-interval-cardio-session-hip-hinges",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Hip Hinges",
+              "prescription": "1 sets x 10 reps",
+              "description": "Hip Hinges: The main goal is to use your posterior chain (glutes and hamstrings) to power the movement. Try the variations and see which one feels good at this stage. Options include: - feet shoulder width a part or wide - knees bent or straight - bodyweight/weight added - no pause/ isometric pause at bottom of each rep Cues: 1. Stand Tall with Neutral Spine. 2. Engage your core muscles to stabilize your spine. Ensure your back is in a neutral position, neither rounded nor overly arched. 3. Initiate the Movement from the Hips so as you start the hip hinge, push your hips back and lead forward with your chest. 4. Maintain a Soft Bend in the Knees unless you are very flexible and can keep the legs straight whilst hinging forward without rounding in the lower back. 5. Try to maintain a straight sine from the crown of your head to your hips.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/1c8945b6-2ec7-11ee-9f1a-a3a214df806b",
+              "pageNumber": 55
+            },
+            {
+              "id": "phase-2-interval-cardio-session-duck-walk",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Duck Walk",
+              "prescription": "1 sets x 1 min",
+              "description": "Cues: From squat position take small steps forward, allow knee to come over toes and maintain upright torso. This exercise can be challenging so dont worry if you are unable to do it just yet. If done correctly it can be great for stretching the toes and opening up the hips. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/900ff1d8-3219-11ee-98aa-7b8dae61ffb8",
+              "pageNumber": 56
+            },
+            {
+              "id": "phase-2-interval-cardio-session-running",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Running",
+              "prescription": "2 sets x 1 km (rest 120 sec)",
+              "description": "Stop, walk or jog as rest for 2 minutes. Each session, Increase the distance by 100 metres Rest 120 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/10a2bcc2-64de-11ed-b265-8b038d658eed",
+              "pageNumber": 56
+            },
+            {
+              "id": "phase-2-interval-cardio-session-running",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Running",
+              "prescription": "4 sets x 500 m (rest 90 sec)",
+              "description": "These are your speed sets, find a higher pace than usual for this shorter distance. Each session increase the distance by 50m. Rest 120 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/267b089a-5003-11ee-a7e7-f7e88ba75961",
+              "pageNumber": 57
+            },
+            {
+              "id": "phase-2-interval-cardio-session-running",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Running",
+              "prescription": "1 sets x 1 km",
+              "description": "Push hard for the final parts of this last set.",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 57
+            },
+            {
+              "id": "phase-2-interval-cardio-session-seated-glute-hip-stretch",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Seated glute/hip stretch",
+              "prescription": "1 sets x 20 breaths (rest 60 sec)",
+              "description": "This stretch covers a many muscles in the posterior hip capsule, such as the piriformis, and into the lower back. It can be done anytime to help with tight hips, sore/tight lower back or to just generally chill out. Your hip that your are stretching may not touch the floor you could place a block or cushion underneath it. Cues: - Hug your thigh of the hip you are stretching close to you - Sit tall with the torso by reaching up to the sky from the crown of your head You should feel the stretch in the glute/outside of your hip of the stretching leg Progression: - An advanced progression, to shower where you could get to one day when your shoulders and upper back also open up includes this bind option. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 57
+            },
+            {
+              "id": "phase-2-interval-cardio-session-calf-stretch-passive-active-weighted",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Calf Stretch (passive -> active -> weighted)",
+              "prescription": "1 sets x 90 sec",
+              "description": "Perform the passive calves stretch for 1-2 sets (depending on time), then perform the single/double leg active stretch after for 1-2 sets (again depending on how much time you have). Passive calves stretch: Hold for 2 minutes on each side per set. Single or double leg active stretch: Choose one which feels better for you. Perform 5-10 hinges per set and hold a small weight whilst you do the hinges if it feels good. Once you have done the hinges, add in a hold of 10-30 seconds at the end of the set, going deeper into the stretch every exhale. Of course if doing single legs, repeat on both sides for the same duration with the same weight. All information within the instructional video. Leg lift hamstring stretch (weighted and non-",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/13432efa-3218-11ee-89bb-d740ac36113b",
+              "pageNumber": 58
+            },
+            {
+              "id": "phase-2-interval-cardio-session-weighted",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "weighted)",
+              "prescription": "2 sets x 90 sec",
+              "description": "Setup: Have a sturdy box/bench/shelf in front of you. Stand facing the elevated surface with your feet hip-width apart. Hold a dumbbell or kettlebell in one hand. Place the foot of the leg you want to stretch onto the elevated surface. Toes of the stretching leg can be pointed up to the ceiling or pointed forwards. Initiate the Movement: Inhale and begin the exercise by hinging at your hips, sending them back and leaning forward. Keep a slight bend in the knee of the foot on the box and a soft bend in the knee of the standing leg. Straighten out the knees if it feels okay and engage quad muscles. Stretching the Hamstring: As you lean forward, focus on feeling the stretch in the hamstring of the leg on the box. Reach your free hand towards the floor or allow the weight to hang down to increase the stretch. Maintain Control: Avoid rounding your back or excessively arching your lower back during the stretch. Try to keep a neutral spine and lead with lower belly as you hinge forward rather than chest. As you fold forward, think of pulling your thigh bone towards the hip joint. Breathing: Your breath is really helpful for this stretch. Inhale as you initiate the movement by hinging at your hips. Exhale as you deepen the stretch by leaning forward.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/76bde826-3079-11ee-a053-eb956583ffc8",
+              "pageNumber": 59
+            },
+            {
+              "id": "phase-2-interval-cardio-session-elongated-exhales",
+              "phaseId": "phase-2",
+              "programId": "phase-2-interval-cardio-session",
+              "name": "Elongated Exhales",
+              "prescription": "3 sets x reps",
+              "description": "This superset trains three movements together in order to save time. Perform the superset for 3 sets in total. Perform each set of each exercise sequentially, with a 60 second rest between the sets. So do one set of exercise A, rest for 60 seconds do one set of exercise B, rest 60 seconds, do one set of exercise C, rest 60 seconds, then back to exercise A.",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 60
+            }
+          ]
+        },
+        {
+          "id": "phase-2-strength-mobility-lower-body-2",
+          "phaseId": "phase-2",
+          "name": "Strength + Mobility: Lower Body 2",
+          "exercises": [
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-treadmill-power-walk",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Treadmill Power Walk",
+              "prescription": "1 sets x 10 min",
+              "description": "*This exercise can also be substituted for any other form of moderate intensity cardio such as cycling, rowing or the cross trainer. I usually walk to the gym to do my workouts so treat that as my warmup.* The purpose here is to raise your internal body temperature, elevate your heart rate and prepare to move in the workout. It is not an essential part of the workout and should you be limited on time and feel warm and able to get straight into the rest of the warmup exercises then go for it and feel free to skip this part. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 61
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-vinyasa-options-x3",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Vinyasa options (x3)",
+              "prescription": "1 sets x 6 reps",
+              "description": "Instructions contained in video, let me know if you have any questions:) Choose the option suitable for you. Down dog cues: you are trying to create an inverted V shape with your body. - Feet and hands about hip width a part. - Straighten legs as much as possible sending heels towards floor. Bending knees is absolutely fine, you should feel a stretch in the backs of the legs. - PUSH the floor away with both hands to elevate the shoulder blades and wrap you elbows in by internally rotating your shoulders (imagine squeezing an orange in your armpit) and this should help engage your lats and shoulder muscles - Active fingers - if someone came to you and tried to lift your finger up from the floor they should find this difficult - this is how you know your fingers are active. - Look at the space between your feet and ensure a neutral spine from top of head to base of spine. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/206b4ddc-2ee0-11ee-abb7-37971290094e",
+              "pageNumber": 61
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-lizard-lunge-variations",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Lizard Lunge Variations",
+              "prescription": "2 sets x 90 sec (rest 20 sec)",
+              "description": "3 progressions of the lizard lounge, an amazing exercise to open up and strengthen hip flexors and quads in the third variation: 1. Back knee on floor - option to have arms fully extended with hands on floor, or walk hands forward to go deeper, or drop to elbows to get deeper still. In all variations, send chest as close to the ground as possible on your exhales. 2. Same as above but back knee stays lifted to make it more demanding on your leg and hip strength. Great for building more mobility aka strength in the position. 3. After holding stretch 1 or 2 for the allotted time, you could add in an extra stretch for the quad muscles of the back leg by taking a bind. You may or may not be able to reach for this. If you can't reach you could use a strap. The more open you get the more you will be able to access this variation. Each time you exhale, pull your foot closer to your bum. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/dda2e83e-4fff-11ee-ae5f-171e14bad608",
+              "pageNumber": 62
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-lunge-rotations",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Lunge rotations",
+              "prescription": "1 sets x 6-10 reps",
+              "description": "Setup: Adopt a lunge position on the floor and imagine a string pulling you up to the ceiling/sky from the crown of your head. Cues: Breathe in and as you exhale twist as far to one side as is comfortable and as you inhale come back to face the centre with your torso. Perform 6-10 reps on one side then include the hold, again using your exhales to twist a little further as you push the back of the hand into the outer thigh. Repeat both sides. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/03ea0422-3080-11ee-a401-c3bc255b9d96",
+              "pageNumber": 63
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Long Lunge Hip Strengthener: 2 sets x 60 sec (rest",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 63
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-60-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "60 sec)",
+              "prescription": "Single leg hip hinge (weighted): 2 sets x 6-8",
+              "description": "reps (rest 60 sec) Perform exercises A and B back to back Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f750148a-5001-11ee-b68d-8f6cd05158de",
+              "pageNumber": 63
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Adductor Floor Stretch (2 variations): 2 sets x 60-90",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 64
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-sec-rest-60-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "sec (rest 60 sec)",
+              "prescription": "Seated glute/hip stretch: 2 sets x 60 sec (rest 60 sec)",
+              "description": "Seated wide leg forward fold: 2 sets x 60 sec Adductor and Hip focused superset",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/73325b22-2fea-11ee-bdba-f3f3d72e40d2",
+              "pageNumber": 64
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 64
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-front-split-hold-bodyweight-2-sets-x-30-60-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Front Split Hold (bodyweight): 2 sets x 30-60 sec",
+              "prescription": "Middle splits (bodyweight): 2 sets x 30-60 sec",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/40b2ffec-4b26-11ee-a9e6-23f2caf3e082",
+              "pageNumber": 64
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "Back extension (bodyweight -> weighted): 3 sets x",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-10-12-reps-rest-60-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "10-12 reps (rest 60 sec)",
+              "prescription": "Bicycle core exercise (floor based): 3 sets x 20-30",
+              "description": "reps (rest 60 sec) Perform these core exercises back to back Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/b5162042-69af-11ee-b38e-872c38ee69e2",
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-plow-pose",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Plow pose",
+              "prescription": "1 sets x 10-20 breaths",
+              "description": "Starting Position: Begin by lying flat on your back with your arms resting alongside your body, palms facing down. Keep your legs together and feet together. Initiate the Movement: Inhale deeply, and as you exhale, start lifting your legs and hips off the ground, rolling your pelvis towards your chest. Use your abdominal strength to initiate the movement, lifting your legs over your head and push your hands into the floor to support the movement if you need to. Legs Overhead: Continue lifting your legs until they are overhead and reaching towards the floor behind you. Your feet should be over your head, and your toes may touch the floor if you have sufficient flexibility or your anatomy allows. It is not essential that your feet touch the floor you just want to feel stretch in either the neck, back, shoulders or hamstrings. Support Your Back: Place your hands on your lower back for support, with your elbows close together and forearms pressing into the ground. Keep your weight on your shoulders and upper arms, not on your neck. Breathe and Relax: Breathe deeply and relax into the pose. Soften your face, jaw, and neck. To progress the pose you can try bending your legs at the knees and bringing your thighs closer to your torso. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/feb8276c-3080-11ee-95fe-5bee668dfb69",
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-elongated-exhales",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 10-30 reps",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 67
+            },
+            {
+              "id": "phase-2-strength-mobility-lower-body-2-and-back-out-again",
+              "phaseId": "phase-2",
+              "programId": "phase-2-strength-mobility-lower-body-2",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 67
+            }
+          ]
+        },
+        {
+          "id": "phase-2-mobility-upper-body-focus-gym",
+          "phaseId": "phase-2",
+          "name": "Mobility: Upper Body Focus (Gym)",
+          "exercises": [
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-treadmill-power-walk",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Treadmill Power Walk",
+              "prescription": "1 sets x 10 min",
+              "description": "*This exercise can also be substituted for any other form of moderate intensity cardio such as cycling, rowing or the cross trainer. I usually walk to the gym to do my workouts so treat that as my warmup.* The purpose here is to raise your internal body temperature, elevate your heart rate and prepare to move in the workout. It is not an essential part of the workout and should you be limited on time and feel warm and able to get straight into the rest of the warmup exercises then go for it and feel free to skip this part. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 69
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-wrist-strengthening-sequence",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Wrist strengthening sequence",
+              "prescription": "2 sets x 3-8 reps",
+              "description": "These wrist exercises are quite advanced and so let me know if they cause too much discomfort. Progress through each variation and perform 3-8 reps of each. Variation 1: Palm lifts - make harder by moving shoulders further forwards over your hands (push all ten fingertips into floor) Variation 2: Back of hands on floor. Bend at elbows as low as is comfortable and push back up Variation 3: Same as variation 2 but make a fist at the top of each rep Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/7ded8532-5001-11ee-8249-7b2e28d13058",
+              "pageNumber": 69
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-vinyasa-options-x3",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Vinyasa options (x3)",
+              "prescription": "2 sets x 5 reps (rest 60 sec)",
+              "description": "Instructions contained in video, let me know if you have any questions:) Choose the option suitable for you. Down dog cues: you are trying to create an inverted V shape with your body. - Feet and hands about hip width a part. - Straighten legs as much as possible sending heels towards floor. Bending knees is absolutely fine, you should feel a stretch in the backs of the legs. - PUSH the floor away with both hands to elevate the shoulder blades and wrap you elbows in by internally rotating your shoulders (imagine squeezing an orange in your armpit) and this should help engage your lats and shoulder muscles - Active fingers - if someone came to you and tried to lift your finger up from the floor they should find this difficult - this is how you know your fingers are active. - Look at the space between your feet and ensure a neutral spine from top of head to base of spine. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/206b4ddc-2ee0-11ee-abb7-37971290094e",
+              "pageNumber": 70
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-spine-extension-cow-cat-sphinx-up-dog",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Spine Extension (cow/cat -> sphinx -> up dog)",
+              "prescription": "1 sets x 60 sec",
+              "description": "In each of these progressions, squeeze your glute muscles when you are in spinal extension. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/87d36ce4-2ed5-11ee-832f-c3eaf92816d8",
+              "pageNumber": 70
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-corskcrew-shoulders",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Corskcrew Shoulders",
+              "prescription": "1 sets x 25 reps",
+              "description": "Perform until you start to feel the a slight burn in the shoulders. Option to add weights to the hands to make it more challenging. I recommend 1-5kg per hand. Rotate the arm in the shoulder joint as far as it will go without pain. Each arm will be rotated the opposite way to the other each rep so you know if you're doing it correctly if you look at one arm and the palm is facing up and you look to the other arm and the palm is facing down. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/b6b11bee-2edd-11ee-89a9-63a61749e898",
+              "pageNumber": 71
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-shoulder-dislocations",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Shoulder dislocations",
+              "prescription": "2 sets x 6-8 reps (rest 60 sec)",
+              "description": "A mobility exercise that helps improve shoulder flexibility and range of motion. will use the full capacity of your shoulder joint. Cues: Try to elevate your shoulder blades as you lift up the band/bar then as you draw it behind you, retract and depress your shoulder blades. Tip: shake out your arms between sets to help you recover for the next set. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/824c473e-2ed3-11ee-9367-ff90e7885a3d",
+              "pageNumber": 71
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 72
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-face-pulls-cable-3-sets-x-10-reps-rest-60-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Face pulls (cable): 3 sets x 10 reps (rest 60 sec)",
+              "prescription": "Dumbbell Fly: 3 sets x 10 reps (rest 60 sec)",
+              "description": "Standing Bent Over Dumbbell Rear Delt Fly: 3 sets x 10 reps (rest 60 sec) A bit of hypertrophy work before the mobility Rest 120 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/352ab846-322a-11ee-91b0-0b3e41a483a8",
+              "pageNumber": 72
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Bodyweight Glute Bridge: 2 sets x 30-60 sec (rest 30",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 72
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "sec)",
+              "prescription": "Locust pose (3 Variations): 2 sets x 30-60 sec (rest",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 72
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-30-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "30 sec)",
+              "prescription": "Side flexion (arms by sides): 2 sets x 6-8 reps (rest",
+              "description": "30 sec) Perform these 3 corse exercises back to back Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f17c15ba-4037-11ee-bb4c-ffb4f8eff579",
+              "pageNumber": 73
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-superset",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 73
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-overhead-pullovers-2-sets-x-6-8-reps-rest-60-sec",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Overhead pullovers: 2 sets x 6-8 reps (rest 60 sec)",
+              "prescription": "Cuban rotations: 2 sets x 6-8 reps (rest 60 sec)",
+              "description": "Perform these movements back to back",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/20e20972-40c9-11ee-be55-5f95ab8c1bc8",
+              "pageNumber": 73
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-camel-pose-variations",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Camel pose variations",
+              "prescription": "2 sets x 10-12 breaths",
+              "description": "3 variations of Camel pose to open up your thoracic spine. Choose the one which feels comfortable: 1. Hands on hips 2. Hands on heels 3. Hands to floor Important cues for all variations: - Squeeze glutes HARD to protect your lower back - Head can be tilted forward or back depending on how it feels for your neck. Tilting it back will stretch the throat muscles and could feel good or be too intense, choose the one you prefer. - Always draw elbows to the centre line of your back and push chest proudly up to the sky Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/040eeef8-2ed8-11ee-b9c3-f3b0520aa360",
+              "pageNumber": 74
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-elongated-exhales",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 10-30 breaths",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 74
+            },
+            {
+              "id": "phase-2-mobility-upper-body-focus-gym-and-back-out-again",
+              "phaseId": "phase-2",
+              "programId": "phase-2-mobility-upper-body-focus-gym",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase-3",
+      "label": "Phase 3",
+      "sourceFile": "Phase 3.pdf",
+      "programs": [
+        {
+          "id": "phase-3-strength-mobility-lower-body-focus-1",
+          "phaseId": "phase-3",
+          "name": "Strength + Mobility: Lower Body Focus 1",
+          "exercises": [
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-assault-bike-fan-bike",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Assault Bike (Fan bike)",
+              "prescription": "1 sets x 100 kcal",
+              "description": "Complete as fast as you can, starting slow, increasing intensity throughout the set as you get warm. Try to beat your time from the previous session each week to hit 100cals. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/3d54a2c8-7741-11ee-b6ad-2f265fb45e28",
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-duck-walk",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Duck Walk",
+              "prescription": "2 sets x 30 sec (rest 30 sec)",
+              "description": "Cues: From squat position take small steps forward, allow knee to come over toes and maintain upright torso. This exercise can be challenging so dont worry if you are unable to do it just yet. If done correctly it can be great for stretching the toes and opening up the hips. Rest 30 sec before continuing Internal Hip Rotation Progressions (seated ->",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/7fdfba06-bf9e-11ee-9552-8f10fb578b58",
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-squat",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "squat)",
+              "prescription": "2 sets x 10-20 reps (rest 30 sec)",
+              "description": "Variation 1 - Seated version: Cues: Sit on floor with hands behind your hips and use this to sit your torso as upright as possible. Legs are bent, feet on the floor. Feet can be placed slightly wider than hips. Allow knee to come inwards down to the floor to internally rotate the leg in the hip joint. Try to limit how much your torso rotates in the direction of the stretch and get knee as close to the floor as possible. This is your femur bone rotating internally towards the floor. Perform the rotation for 10-20 reps each side and then include a hold at the end of the set for around 30 seconds. You should feel the stretch in your adductors and/or hips and will likely feel some sensations in the knee. Avoid pain but tightness is fine. Variation 2 - Hips raised version: The same as variation 1, but you lift your hips into the air to make the exercise more intense. Variation 3 - Perform the internal rotation from a squat position. Variation 4 - Perform the squat variation but allow both your hips to lower to the floor and find an external rotation with the opposition hip. Use your hands or fingertips to support you. Variation 5 - Same as variation 4 but perform without the support of your hands or fingertips on the floor. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f90af38a-3e8b-11ee-89c5-1be45e7b463a",
+              "pageNumber": 52
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-hip-hinges",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Hip Hinges",
+              "prescription": "2 sets x 6-8 reps (rest 30 sec)",
+              "description": "Hip Hinges: The main goal is to use your posterior chain (glutes and hamstrings) to power the movement. Try the variations and see which one feels good at this stage. Options include: - feet shoulder width a part or wide - knees bent or straight - bodyweight/weight added - no pause/ isometric pause at bottom of each rep Cues: 1. Stand Tall with Neutral Spine. 2. Engage your core muscles to stabilize your spine. Ensure your back is in a neutral position, neither rounded nor overly arched. 3. Initiate the Movement from the Hips so as you start the hip hinge, push your hips back and lead forward with your chest. 4. Maintain a Soft Bend in the Knees unless you are very flexible and can keep the legs straight whilst hinging forward without rounding in the lower back. 5. Try to maintain a straight sine from the crown of your head to your hips. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/1c8945b6-2ec7-11ee-9f1a-a3a214df806b",
+              "pageNumber": 54
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 54
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-front-squats-3-sets-x-6-8-reps-rest-90-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Front Squats: 3 sets x 6-8 reps (rest 90 sec)",
+              "prescription": "Nordic Curls: 3 sets x 6-8 reps (rest 90 sec)",
+              "description": "Perform these two movements together as a superset IF you are able to with your access to equipment and space, if you cannot, you can do them separately Rest 60 sec before continuing Back off set - apply 30-50% intensity",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/001eed64-7cc3-11ee-9487-ab2e802418a3",
+              "pageNumber": 54
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-1-round",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "1 round",
+              "prescription": "Front Squats: 1 sets x 15-20 reps (rest 60 sec)",
+              "description": "Nordic Curls: 1 sets x 15-20 reps (rest 60 sec) Do 1 high rep set of the same two movements as above but with a much lighter weight for squats and a thicker resistance band for the Nordic Curls as a drop set.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/efb8303e-bf6b-11ee-bc34-a79b7fa1812f",
+              "pageNumber": 55
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "Pigeon stretch (passive -> active -> weighted): 3 sets",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 55
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-x-90-sec-rest-30-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "x 90 sec (rest 30 sec)",
+              "prescription": "Jefferson Curl - Rotated Variation: 3 sets x 6-8",
+              "description": "reps (rest 30 sec) Perform exercises A and B back to back with a short break between each. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/3b10405e-2ecf-11ee-aef5-f37e927adcd3",
+              "pageNumber": 56
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Quad + hip flexor stretches: 2 sets x 120 sec (rest 30 sec)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 56
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-leg-lift-hamstring-stretch-weighted-and-non",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Leg lift hamstring stretch (weighted and non-",
+              "prescription": "weighted): 2 sets x 120 sec (rest 30 sec)",
+              "description": "Perform these exercises back to back to prepare for the front splits Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/d30f0634-800e-11ee-bc23-bb86a12d5b74",
+              "pageNumber": 56
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "Front Split Hold (bodyweight): 3 sets x 60-90",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 56
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-sec-rest-90-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "sec (rest 90 sec)",
+              "prescription": "Middle splits (bodyweight): 3 sets x 60-90 sec (rest",
+              "description": "90 sec) Perform back to back with a 90 second break between each set",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/40b2ffec-4b26-11ee-a9e6-23f2caf3e082",
+              "pageNumber": 57
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-elongated-exhales",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 10-30 breaths",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 57
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-focus-1-and-back-out-again",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-focus-1",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 58
+            }
+          ]
+        },
+        {
+          "id": "phase-3-hybrid-session",
+          "phaseId": "phase-3",
+          "name": "Hybrid Session",
+          "exercises": [
+            {
+              "id": "phase-3-hybrid-session-1-round",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "1 round",
+              "prescription": "Hip Hinges: 1 sets x 10 reps",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 59
+            },
+            {
+              "id": "phase-3-hybrid-session-duck-walk-1-sets-x-reps",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "Duck Walk: 1 sets x reps",
+              "prescription": "Cossack Squats: 1 sets x reps",
+              "description": "Perform bodyweight variations of each of these three exercises to loosen up before your run session.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/1c8945b6-2ec7-11ee-9f1a-a3a214df806b",
+              "pageNumber": 59
+            },
+            {
+              "id": "phase-3-hybrid-session-running",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "Running",
+              "prescription": "1 sets x 800 m",
+              "description": "warmup run, working up to a faster pace throughout the 800m",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/10a2bcc2-64de-11ed-b265-8b038d658eed",
+              "pageNumber": 59
+            },
+            {
+              "id": "phase-3-hybrid-session-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 60
+            },
+            {
+              "id": "phase-3-hybrid-session-kettlebell-swing-3-sets-x-15-reps-rest-30-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "Kettlebell Swing: 3 sets x 15 reps (rest 30 sec)",
+              "prescription": "Running: 3 sets x 400 m (rest 30 sec)",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 60
+            },
+            {
+              "id": "phase-3-hybrid-session-burpee-3-sets-x-15-reps-rest-30-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "Burpee: 3 sets x 15 reps (rest 30 sec)",
+              "prescription": "Running: 3 sets x 400 m (rest 30 sec)",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 60
+            },
+            {
+              "id": "phase-3-hybrid-session-jack-knife-crunch-3-sets-x-20-reps-rest-30-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "Jack Knife Crunch: 3 sets x 20 reps (rest 30 sec)",
+              "prescription": "Running: 3 sets x 400 m (rest 150 sec)",
+              "description": "A Hybrid Training Superset to build cardio and endurance and burn fat. Increase the number of reps of each of the 3 exercises (KB Swings, Burpee + JK Crunch) by 1 rep per set each session. 2.5 minute rest between each superset. Rest 90 sec before continuing Cool Down Superset",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/adc104c6-eb6c-11ee-acad-f7b3e9ff26ec",
+              "pageNumber": 60
+            },
+            {
+              "id": "phase-3-hybrid-session-1-round",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "1 round",
+              "prescription": "Calf Stretch (passive -> active -> weighted): 1 sets x",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 61
+            },
+            {
+              "id": "phase-3-hybrid-session-120-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-hybrid-session",
+              "name": "120 sec",
+              "prescription": "Laying Figure 4 stretch : 1 sets x 120 sec",
+              "description": "Quad + hip flexor stretches: 1 sets x 120 sec Hold these stretches after your run session to avoid getting too tight from the run:)",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/bc73a872-eb60-11ee-a202-fbcc0f50b3a3",
+              "pageNumber": 61
+            }
+          ]
+        },
+        {
+          "id": "phase-3-strength-upper-body-gym",
+          "phaseId": "phase-3",
+          "name": "Strength: Upper Body (Gym)",
+          "exercises": [
+            {
+              "id": "phase-3-strength-upper-body-gym-assault-bike-fan-bike",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Assault Bike (Fan bike)",
+              "prescription": "2 sets x 10 kcal",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/3d54a2c8-7741-11ee-b6ad-2f265fb45e28",
+              "pageNumber": 62
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-wrist-mobility-9-movements",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Wrist mobility (9 movements)",
+              "prescription": "2 sets x 2 min (rest 60 sec)",
+              "description": "The instructional video is an overview of a wrist mobility and stretch sequence containing 9 variations. Depending on your wrist strength and mobility different variations will feel more/less challenging. I recommend choosing 2-5 of these movements and performing them in one go, spending 20-60 seconds performing each of the chosen wrist exercises, depending on how they feel. For those with a dynamic movement (e.g. wrist rocks with fists clenched or palm lifts), move GENTLY though the movement. To make them harder, lean you shoulders more forwards to add the intensity of demand onto your wrists. To finish or within the set, shake out your hands and avoid creating any pain in your wrists. Remember, this is a WARM-UP, not a workout. Do enough to warm up and stretch your wrist, but not enough to hurt or fatigue them. You don’t want them tired before you train. You just want strength, mobility, and warmth. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f8f5e204-3078-11ee-935c-3f78d333851d",
+              "pageNumber": 62
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-spinal-rotation-movements-dynamic-passive",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Spinal rotation movements (dynamic + passive)",
+              "prescription": "1 sets x 10 reps",
+              "description": "Choose a variation that feels good and remember to perform on both sides. Combine repetitions with a hold in the twist position of 15-30 seconds at the end of the set if it feels comfortable. Twist further on your exhales. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/60170112-2ede-11ee-bf85-3b9e2293ab02",
+              "pageNumber": 63
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-scapula-movements",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Scapula movements",
+              "prescription": "1 sets x 40 reps",
+              "description": "Hold a small weight in each hand to progress these movements and build shoulder strength (1-4kg) Perform these movements for up to 10 reps per movement (so up to 40 total): Retraction Protraction Elevation Depression Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/621180e2-2edd-11ee-8abe-879fc2fe28e5",
+              "pageNumber": 63
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-hanging-shrugs",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Hanging shrugs",
+              "prescription": "2 sets x 5-10 reps",
+              "description": "Starting Position: Hang from a pull-up bar or rings with an overhand grip (palms facing away from you). Allow your body to fully extend, and your feet should not touch the ground. HOWEVER If this exercise is too challenging to perform with feet off the floor, you should place a small step or box under you and place your toes or feet onto it JUST enough to support you in the position as you do the shrugs. Try to use as little support from the feet as possible so you build your strength in your shoulders. Engage Core and Maintain Body Alignment: Tilt your pelvis forwards (anterior tilt) to engage core and build shoulder mobility. Maintain a straight body alignment from head to heels. Avoid excessive swinging or arching of your back. Initiate the Movement: Begin the exercise by actively pulling your shoulder blades down and back. Imagine you are trying to squeeze a pen between your shoulder blades. Shrug Movement: Reverse the movement by elevating your shoulder blades towards your ears, contracting your upper back muscles. Keep your arms straight throughout the movement. Avoid fully relaxing your shoulders at the bottom to maintain tension on the muscles. Focus on the muscles in your upper back to lift and lower your shoulder blades. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/249607a4-307e-11ee-8605-8774915fb732",
+              "pageNumber": 64
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-mixed-grip-chin-up-3-sets-x-6-8-reps-rest-90-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Mixed grip chin up : 3 sets x 6-8 reps (rest 90 sec)",
+              "prescription": "Incline Barbell Bench Press: 3 sets x 8-10 reps (rest",
+              "description": "90 sec) Perform as a superset if your space and equipment allows Rest 60 sec before continuing Superset",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/1da7ad74-2fef-11ee-8ee2-23d26ec305cc",
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-1-round",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "1 round",
+              "prescription": "Pull up + chin up progressions: 1 sets x MAX (rest 60",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "sec)",
+              "prescription": "Incline Barbell Bench Press: 1 sets x MAX (rest 60",
+              "description": "sec) Push/Pull Back off set - max out in one final high rep set using 30-50% of the intensity of the main superset previously. Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/9b5f872a-3141-11ee-9857-1769e5c76463",
+              "pageNumber": 65
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 66
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-pike-push-ups-rings-3-sets-x-6-8-reps",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Pike Push Ups - Rings: 3 sets x 6-8 reps",
+              "prescription": "Bicycle core exercise (floor based): 3 sets x 8-12 reps",
+              "description": "Superset",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/7d024be2-69d5-11ee-9265-170e973fd01a",
+              "pageNumber": 66
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-1-round",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "1 round",
+              "prescription": "Bodyweight Row -> Arc Rows: 1 sets x MAX (rest 90",
+              "description": "sec) Pike push up variations: 1 sets x MAX (rest 90 sec) Push/Pull Back off set - max out in one final high rep set using 30-50% of the intensity of the main superset previously. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/7b7f7610-313f-11ee-a1cc-83fd9dbd11af",
+              "pageNumber": 66
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Behind neck press (barbell): 2 sets x 15 reps (rest 90",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 67
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "sec)",
+              "prescription": "Bent over row (barbell): 2 sets x 15 reps (rest 90 sec)",
+              "description": "Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/8d10d586-304a-11ee-86c9-974e3b89ae48",
+              "pageNumber": 67
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-neck-stretch-sequence",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Neck stretch sequence",
+              "prescription": "1 sets x 2 min",
+              "description": "Hold each stretch for 30-60 seconds. Be gentle with all these stretches to avoid straining your neck. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/edd0d6a0-2edd-11ee-a99c-fb03d34a6aa8",
+              "pageNumber": 67
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-eagle-hang-passive-active",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Eagle Hang (passive -> active)",
+              "prescription": "2 sets x 30 sec",
+              "description": "The first progression is partial load hangs. Leave your feet just barely on the ground or a box and hold for time. Progression two is where you can place your feet on the ground again but perform inlocates where you’ll roll your shoulders forward and press your hips up behind you with your weight partially on the ground or a box again. Progression three is to progress to hanging without the feet. Take your time building up to this. A little goes a long way. Progression four will have you doing the above but with NO foot assistance again. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/de5cfbbc-2ff1-11ee-8ecd-ebdca25567f5",
+              "pageNumber": 68
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-hang-passive-active",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Hang (passive -> active)",
+              "prescription": "1 sets x 30 sec",
+              "description": "Passive hanging from a bar is a beneficial exercise for stretching and decompressing the shoulder joint and spine, improving grip strength, and promoting overall shoulder health. Active hanging builds strength in the shoulders and upper back as well as improves overhead mobility in the shoulder flexion movement. Variation 1: Supported passive hang. Find a bar or rings of a height that allows you to have both feet on the floor. With hands shoulder width a part, grip the bar and lower yourself into a hang position with the feet supporting you as little as possible. Be light on the toes so you build strength in the shoulders. Variation 2: Make the above harder by picking up one foot so your shoulders have to work harder Variation 3: Hang passively with both feet lifted Variation 4: Make the hang active by bringing your knees in front of you and engage your core by adopting posterior pelvic tilt (hips and tailbone thrusted forward and rounding in lower back) Variation 5: Make this active hang harder by locking out the legs",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/9c78947e-2ed2-11ee-b2d6-bf59324bcf47",
+              "pageNumber": 68
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-elongated-exhales",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 10-30 breaths",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 69
+            },
+            {
+              "id": "phase-3-strength-upper-body-gym-and-back-out-again",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-upper-body-gym",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 70
+            }
+          ]
+        },
+        {
+          "id": "phase-3-sprint-session",
+          "phaseId": "phase-3",
+          "name": "Sprint Session",
+          "exercises": [
+            {
+              "id": "phase-3-sprint-session-leg-swings",
+              "phaseId": "phase-3",
+              "programId": "phase-3-sprint-session",
+              "name": "Leg swings",
+              "prescription": "1 sets x 10 reps",
+              "description": "Hold onto a solid surface with one arm. Swing legs in three directions for up to 10 reps on each leg per direction. For the forward and side swing movements, you could throw in a hold on the final rep of 10-30 seconds, trying to lift the leg as high as you can in front of you or to the side, to build up strength in this position. If doing a hold, remember to breath and lift the foot as high as possible. Try to keep the legs almost straight but with a slight bend. Don't kick so hard you hurt your hamstrings or groin, start gentle and get more energetic with the movement each swing. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/d5d8308c-307e-11ee-95e4-976b60c228a1",
+              "pageNumber": 71
+            },
+            {
+              "id": "phase-3-sprint-session-hip-hinges",
+              "phaseId": "phase-3",
+              "programId": "phase-3-sprint-session",
+              "name": "Hip Hinges",
+              "prescription": "1 sets x 10 reps",
+              "description": "Hip Hinges: The main goal is to use your posterior chain (glutes and hamstrings) to power the movement. Try the variations and see which one feels good at this stage. Options include: - feet shoulder width a part or wide - knees bent or straight - bodyweight/weight added - no pause/ isometric pause at bottom of each rep Cues: 1. Stand Tall with Neutral Spine. 2. Engage your core muscles to stabilize your spine. Ensure your back is in a neutral position, neither rounded nor overly arched. 3. Initiate the Movement from the Hips so as you start the hip hinge, push your hips back and lead forward with your chest. 4. Maintain a Soft Bend in the Knees unless you are very flexible and can keep the legs straight whilst hinging forward without rounding in the lower back. 5. Try to maintain a straight sine from the crown of your head to your hips.",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/1c8945b6-2ec7-11ee-9f1a-a3a214df806b",
+              "pageNumber": 71
+            },
+            {
+              "id": "phase-3-sprint-session-duck-walk",
+              "phaseId": "phase-3",
+              "programId": "phase-3-sprint-session",
+              "name": "Duck Walk",
+              "prescription": "1 sets x 1 min",
+              "description": "Cues: From squat position take small steps forward, allow knee to come over toes and maintain upright torso. This exercise can be challenging so dont worry if you are unable to do it just yet. If done correctly it can be great for stretching the toes and opening up the hips. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/7fdfba06-bf9e-11ee-9552-8f10fb578b58",
+              "pageNumber": 72
+            },
+            {
+              "id": "phase-3-sprint-session-running",
+              "phaseId": "phase-3",
+              "programId": "phase-3-sprint-session",
+              "name": "Running",
+              "prescription": "1 sets x 5 km",
+              "description": "You can change the running for another form of cardio if you prefer. Let me know:) Each kilometre, run at 80-90% of your max capacity for 800m and then slow the pace to a walk or slow jog for the final 200m of that kilometre. Each session, Increase the number of km by 1 if you have the time and energy. Rest 120 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/10a2bcc2-64de-11ed-b265-8b038d658eed",
+              "pageNumber": 72
+            },
+            {
+              "id": "phase-3-sprint-session-seated-glute-hip-stretch",
+              "phaseId": "phase-3",
+              "programId": "phase-3-sprint-session",
+              "name": "Seated glute/hip stretch",
+              "prescription": "1 sets x 20 breaths (rest 60 sec)",
+              "description": "This stretch covers a many muscles in the posterior hip capsule, such as the piriformis, and into the lower back. It can be done anytime to help with tight hips, sore/tight lower back or to just generally chill out. Your hip that your are stretching may not touch the floor you could place a block or cushion underneath it. Cues: - Hug your thigh of the hip you are stretching close to you - Sit tall with the torso by reaching up to the sky from the crown of your head You should feel the stretch in the glute/outside of your hip of the stretching leg Progression: - An advanced progression, to shower where you could get to one day when your shoulders and upper back also open up includes this bind option. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/267b089a-5003-11ee-a7e7-f7e88ba75961",
+              "pageNumber": 73
+            },
+            {
+              "id": "phase-3-sprint-session-calf-stretch-passive-active-weighted",
+              "phaseId": "phase-3",
+              "programId": "phase-3-sprint-session",
+              "name": "Calf Stretch (passive -> active -> weighted)",
+              "prescription": "1 sets x 90 sec",
+              "description": "Perform the passive calves stretch for 1-2 sets (depending on time), then perform the single/double leg active stretch after for 1-2 sets (again depending on how much time you have). Passive calves stretch: Hold for 2 minutes on each side per set. Single or double leg active stretch: Choose one which feels better for you. Perform 5-10 hinges per set and hold a small weight whilst you do the hinges if it feels good. Once you have done the hinges, add in a hold of 10-30 seconds at the end of the set, going deeper into the stretch every exhale. Of course if doing single legs, repeat on both sides for the same duration with the same weight. All information within the instructional video. Rest 30 sec before continuing Leg lift hamstring stretch (weighted and non-",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/13432efa-3218-11ee-89bb-d740ac36113b",
+              "pageNumber": 74
+            },
+            {
+              "id": "phase-3-sprint-session-weighted",
+              "phaseId": "phase-3",
+              "programId": "phase-3-sprint-session",
+              "name": "weighted)",
+              "prescription": "2 sets x 90 sec",
+              "description": "Setup: Have a sturdy box/bench/shelf in front of you. Stand facing the elevated surface with your feet hip-width apart. Hold a dumbbell or kettlebell in one hand. Place the foot of the leg you want to stretch onto the elevated surface. Toes of the stretching leg can be pointed up to the ceiling or pointed forwards. Initiate the Movement: Inhale and begin the exercise by hinging at your hips, sending them back and leaning forward. Keep a slight bend in the knee of the foot on the box and a soft bend in the knee of the standing leg. Straighten out the knees if it feels okay and engage quad muscles. Stretching the Hamstring: As you lean forward, focus on feeling the stretch in the hamstring of the leg on the box. Reach your free hand towards the floor or allow the weight to hang down to increase the stretch. Maintain Control: Avoid rounding your back or excessively arching your lower back during the stretch. Try to keep a neutral spine and lead with lower belly as you hinge forward rather than chest. As you fold forward, think of pulling your thigh bone towards the hip joint. Breathing: Your breath is really helpful for this stretch. Inhale as you initiate the movement by hinging at your hips. Exhale as you deepen the stretch by leaning forward. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/76bde826-3079-11ee-a053-eb956583ffc8",
+              "pageNumber": 74
+            },
+            {
+              "id": "phase-3-sprint-session-elongated-exhales",
+              "phaseId": "phase-3",
+              "programId": "phase-3-sprint-session",
+              "name": "Elongated Exhales",
+              "prescription": "3 sets x reps",
+              "description": "This superset trains three movements together in order to save time. Perform the superset for 3 sets in total. Perform each set of each exercise sequentially, with a 60 second rest between the sets. So do one set of exercise A, rest for 60 seconds do one set of exercise B, rest 60 seconds, do one set of exercise C, rest 60 seconds, then back to exercise A.",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 76
+            }
+          ]
+        },
+        {
+          "id": "phase-3-strength-mobility-lower-body-2",
+          "phaseId": "phase-3",
+          "name": "Strength + Mobility: Lower Body 2",
+          "exercises": [
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-treadmill-power-walk",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Treadmill Power Walk",
+              "prescription": "1 sets x 10 min",
+              "description": "*This exercise can also be substituted for any other form of moderate intensity cardio such as cycling, rowing or the cross trainer. I usually walk to the gym to do my workouts so treat that as my warmup.* The purpose here is to raise your internal body temperature, elevate your heart rate and prepare to move in the workout. It is not an essential part of the workout and should you be limited on time and feel warm and able to get straight into the rest of the warmup exercises then go for it and feel free to skip this part. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 77
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-vinyasa-options-x3",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Vinyasa options (x3)",
+              "prescription": "1 sets x 6 reps",
+              "description": "Instructions contained in video, let me know if you have any questions:) Choose the option suitable for you. Down dog cues: you are trying to create an inverted V shape with your body. - Feet and hands about hip width a part. - Straighten legs as much as possible sending heels towards floor. Bending knees is absolutely fine, you should feel a stretch in the backs of the legs. - PUSH the floor away with both hands to elevate the shoulder blades and wrap you elbows in by internally rotating your shoulders (imagine squeezing an orange in your armpit) and this should help engage your lats and shoulder muscles - Active fingers - if someone came to you and tried to lift your finger up from the floor they should find this difficult - this is how you know your fingers are active. - Look at the space between your feet and ensure a neutral spine from top of head to base of spine. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/206b4ddc-2ee0-11ee-abb7-37971290094e",
+              "pageNumber": 77
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-lizard-lunge-variations",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Lizard Lunge Variations",
+              "prescription": "1 sets x 120 sec",
+              "description": "3 progressions of the lizard lounge, an amazing exercise to open up and strengthen hip flexors and quads in the third variation: 1. Back knee on floor - option to have arms fully extended with hands on floor, or walk hands forward to go deeper, or drop to elbows to get deeper still. In all variations, send chest as close to the ground as possible on your exhales. 2. Same as above but back knee stays lifted to make it more demanding on your leg and hip strength. Great for building more mobility aka strength in the position. 3. After holding stretch 1 or 2 for the allotted time, you could add in an extra stretch for the quad muscles of the back leg by taking a bind. You may or may not be able to reach for this. If you can't reach you could use a strap. The more open you get the more you will be able to access this variation. Each time you exhale, pull your foot closer to your bum. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/dda2e83e-4fff-11ee-ae5f-171e14bad608",
+              "pageNumber": 78
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-lunge-rotations",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Lunge rotations",
+              "prescription": "1 sets x 6-10 reps",
+              "description": "Setup: Adopt a lunge position on the floor and imagine a string pulling you up to the ceiling/sky from the crown of your head. Cues: Breathe in and as you exhale twist as far to one side as is comfortable and as you inhale come back to face the centre with your torso. Perform 6-10 reps on one side then include the hold, again using your exhales to twist a little further as you push the back of the hand into the outer thigh. Repeat both sides. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/03ea0422-3080-11ee-a401-c3bc255b9d96",
+              "pageNumber": 79
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-weighted-butterfly",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Weighted Butterfly",
+              "prescription": "3 sets x 8-10 reps",
+              "description": "All cues contained in video. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/927fd642-2ed9-11ee-a953-e32a7c7ea089",
+              "pageNumber": 79
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Long Lunge Hip Strengthener: 2 sets x 60 sec (rest",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 79
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-60-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "60 sec)",
+              "prescription": "Single leg hip hinge (weighted): 2 sets x 6-8",
+              "description": "reps (rest 60 sec) Perform exercises A and B back to back Rest 90 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f750148a-5001-11ee-b68d-8f6cd05158de",
+              "pageNumber": 79
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Adductor Floor Stretch (2 variations): 2 sets x 60-90",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 80
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-sec-rest-60-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "sec (rest 60 sec)",
+              "prescription": "Seated glute/hip stretch: 2 sets x 60 sec (rest 60 sec)",
+              "description": "Adductor and Hip focused superset Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/73325b22-2fea-11ee-bdba-f3f3d72e40d2",
+              "pageNumber": 80
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-seated-wide-leg-forward-fold",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Seated wide leg forward fold",
+              "prescription": "2 sets x 60 sec (rest 30 sec)",
+              "description": "Starting Position: Sit on an elevated surface (easier) or the floor (harder) with your legs extended out wide in a \"V\" shape. 3 options (choose the one that is most comfortable for you): 1- Hands just in front on floor 2- Walk hands away from you 3- Hands behind hips Sit Tall: Sit up tall with a straight back, engaging your core to maintain good posture throughout the exercise. Shoulders Back: Roll your shoulders back and down to avoid hunching forward and adopt anterior pelvic tilt if possible by tilting your pelvis backwards Hinge at the Hips: Inhale and hinge at your hips to lean forward, leading with your chest. Keep your back as straight as possible as you lower your torso toward the floor. Engage the Legs: As you fold forward, engage your inner thighs and engage the quadriceps (front thigh muscles) to support the movement. Controlled Descent: Lower your torso toward the floor in a controlled manner. Focus on feeling a gentle stretch in your hamstrings and inner thighs. Go as low as you can whilst keeping a straight spine. Avoid Overstretching: Be mindful not to push yourself into an excessive stretch or go beyond your comfortable range of motion. Breathing: Exhale as you fold forward a little deeper into the stetch. Use your breath and perform for 30-120 seconds for each set, getting deeper into the position every round of breath. Added notes - Try next time sitting up against a wall with your legs out in front of you. Try and keep your back flat against the wall and legs straight. If this still feels hard bring your pelvis slightly away from the wall. Also try pointing your toes instead of flexing as this will also help a little bit, it’ll take the nerve stretch out of it too. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/868ce324-3092-11ee-aa57-97f050243cdc",
+              "pageNumber": 80
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-seated-wide-leg-forward-fold-weighted",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Seated wide leg forward fold (weighted)",
+              "prescription": "2 sets x 30 sec (rest 30 sec)",
+              "description": "Starting Position: Sit on an elevated surface (easier) or the floor (harder) with your legs extended out wide in a \"V\" shape. Hold a weight in front or behind you (your choice but don't allow it to round your upper back by holding it). Cues: - Bend the knees slightly with toes facing up (easier) or lock the legs (harder) Sit Tall: Sit up tall with a straight back, engaging your core to maintain good posture throughout the exercise. Shoulders Back: Roll your shoulders back and down to avoid hunching forward and adopt anterior pelvic tilt if possible by tilting your pelvis backwards Hinge at the Hips: Inhale and hinge at your hips to lean forward, leading with your chest. Keep your back as straight as possible as you lower your torso toward the floor. Engage the Legs: As you fold forward, engage your inner thighs and engage the quadriceps (front thigh muscles) to support the movement. Controlled Descent: Lower your torso toward the floor in a controlled manner. Focus on feeling a gentle stretch in your hamstrings and inner thighs. Go as low as you can whilst keeping a straight spine. Avoid Overstretching: Be mindful not to push yourself into an excessive stretch or go beyond your comfortable range of motion. Breathing: Exhale as you fold forward and inhale as you return to the starting position. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/269b91d6-2fe8-11ee-ac9d-1375b130c31e",
+              "pageNumber": 82
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Superset",
+              "prescription": "3 rounds",
+              "description": "Front Split Hold (weighted): 3 sets x 30-120 sec (rest",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 83
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-60-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "60 sec)",
+              "prescription": "Middle Splits Slides + Hold: 3 sets x 3-5 reps (rest 60",
+              "description": "sec) Perform back to back with a 90 second rest between each set Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/3b887dfa-4b2e-11ee-bcdd-ff2c8f213a49",
+              "pageNumber": 83
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-plow-pose",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Plow pose",
+              "prescription": "1 sets x 10-20 breaths",
+              "description": "Starting Position: Begin by lying flat on your back with your arms resting alongside your body, palms facing down. Keep your legs together and feet together. Initiate the Movement: Inhale deeply, and as you exhale, start lifting your legs and hips off the ground, rolling your pelvis towards your chest. Use your abdominal strength to initiate the movement, lifting your legs over your head and push your hands into the floor to support the movement if you need to. Legs Overhead: Continue lifting your legs until they are overhead and reaching towards the floor behind you. Your feet should be over your head, and your toes may touch the floor if you have sufficient flexibility or your anatomy allows. It is not essential that your feet touch the floor you just want to feel stretch in either the neck, back, shoulders or hamstrings. Support Your Back: Place your hands on your lower back for support, with your elbows close together and forearms pressing into the ground. Keep your weight on your shoulders and upper arms, not on your neck. Breathe and Relax: Breathe deeply and relax into the pose. Soften your face, jaw, and neck. To progress the pose you can try bending your legs at the knees and bringing your thighs closer to your torso. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/10a0f508-7e38-11ee-a9f2-1b21e0e44643",
+              "pageNumber": 84
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-elongated-exhales",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 10-30 reps",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 85
+            },
+            {
+              "id": "phase-3-strength-mobility-lower-body-2-and-back-out-again",
+              "phaseId": "phase-3",
+              "programId": "phase-3-strength-mobility-lower-body-2",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 86
+            }
+          ]
+        },
+        {
+          "id": "phase-3-mobility-upper-body-focus-gym",
+          "phaseId": "phase-3",
+          "name": "Mobility: Upper Body Focus (Gym)",
+          "exercises": [
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-treadmill-power-walk",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Treadmill Power Walk",
+              "prescription": "1 sets x 10 min",
+              "description": "*This exercise can also be substituted for any other form of moderate intensity cardio such as cycling, rowing or the cross trainer. I usually walk to the gym to do my workouts so treat that as my warmup.* The purpose here is to raise your internal body temperature, elevate your heart rate and prepare to move in the workout. It is not an essential part of the workout and should you be limited on time and feel warm and able to get straight into the rest of the warmup exercises then go for it and feel free to skip this part. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 87
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-wrist-strengthening-sequence",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Wrist strengthening sequence",
+              "prescription": "2 sets x 3-8 reps",
+              "description": "These wrist exercises are quite advanced and so let me know if they cause too much discomfort. Progress through each variation and perform 3-8 reps of each. Variation 1: Palm lifts - make harder by moving shoulders further forwards over your hands (push all ten fingertips into floor) Variation 2: Back of hands on floor. Bend at elbows as low as is comfortable and push back up Variation 3: Same as variation 2 but make a fist at the top of each rep Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/7ded8532-5001-11ee-8249-7b2e28d13058",
+              "pageNumber": 87
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-vinyasa-options-x3",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Vinyasa options (x3)",
+              "prescription": "2 sets x 5 reps (rest 60 sec)",
+              "description": "Instructions contained in video, let me know if you have any questions:) Choose the option suitable for you. Down dog cues: you are trying to create an inverted V shape with your body. - Feet and hands about hip width a part. - Straighten legs as much as possible sending heels towards floor. Bending knees is absolutely fine, you should feel a stretch in the backs of the legs. - PUSH the floor away with both hands to elevate the shoulder blades and wrap you elbows in by internally rotating your shoulders (imagine squeezing an orange in your armpit) and this should help engage your lats and shoulder muscles - Active fingers - if someone came to you and tried to lift your finger up from the floor they should find this difficult - this is how you know your fingers are active. - Look at the space between your feet and ensure a neutral spine from top of head to base of spine. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/206b4ddc-2ee0-11ee-abb7-37971290094e",
+              "pageNumber": 88
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-up-dog-wall-assisted",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Up Dog (Wall Assisted)",
+              "prescription": "2 sets x 20-60 sec (rest 30 sec)",
+              "description": "*Audio instructions in video* Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/78608138-7e63-11ee-a571-fb2c019fa0dd",
+              "pageNumber": 88
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-banded-upper-body-warmup-routine",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Banded Upper Body Warmup Routine",
+              "prescription": "2 sets x 10-20 reps (rest 60 sec)",
+              "description": "*Audio on for video* Perform 10-20 reps of each of the following movements: 1. Elevated Pull Aparts 2. Face Pulls 3. Rows 4. Rotations 5. Pullovers 6. Internal Rotations 7. External Rotations Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/c2255c44-7e4f-11ee-babe-ffc8fa4a9c4f",
+              "pageNumber": 89
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "Bodyweight Glute Bridge: 2 sets x 30-60 sec (rest 30",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 89
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "sec)",
+              "prescription": "Locust pose (3 Variations): 2 sets x 30-60 sec (rest",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 89
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-30-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "30 sec)",
+              "prescription": "Side flexion (arms extended): 2 sets x 10 reps (rest",
+              "description": "30 sec) \"Perform these 3 corse exercises back to back Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/f17c15ba-4037-11ee-bb4c-ffb4f8eff579",
+              "pageNumber": 89
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 90
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-cuban-rotations-2-sets-x-6-8-reps-rest-60-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Cuban rotations: 2 sets x 6-8 reps (rest 60 sec)",
+              "prescription": "Lunge Backbend : 2 sets x 20-40 sec (rest 45 sec)",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/20e20972-40c9-11ee-be55-5f95ab8c1bc8",
+              "pageNumber": 90
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-wheel-pose-progressions-feet-elevated",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Wheel Pose Progressions (Feet elevated)",
+              "prescription": "3 sets x 15-60 sec (rest 60 sec)",
+              "description": "*Audio instructions in video* Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/5f7ed79c-7e62-11ee-974c-eb6986d474ab",
+              "pageNumber": 90
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-superset",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Superset",
+              "prescription": "2 rounds",
+              "description": "",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 91
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-face-pulls-cable-2-sets-x-6-8-reps-rest-60-sec",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Face pulls (cable): 2 sets x 6-8 reps (rest 60 sec)",
+              "prescription": "Plank side taps : 2 sets x 6-12 reps",
+              "description": "Perform these exercises back to back. Rest 60 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/352ab846-322a-11ee-91b0-0b3e41a483a8",
+              "pageNumber": 91
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-eagle-hang-passive-active",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Eagle Hang (passive -> active)",
+              "prescription": "2 sets x 10-30 sec (rest 30 sec)",
+              "description": "The first progression is partial load hangs. Leave your feet just barely on the ground or a box and hold for time. Progression two is where you can place your feet on the ground again but perform inlocates where you’ll roll your shoulders forward and press your hips up behind you with your weight partially on the ground or a box again. Progression three is to progress to hanging without the feet. Take your time building up to this. A little goes a long way. Progression four will have you doing the above but with NO foot assistance again. Rest 30 sec before continuing",
+              "imageUrl": null,
+              "videoUrl": "https://eu.lenus.io/video-preview/76c61e26-bf51-11ee-868c-fb012e0f8bb5",
+              "pageNumber": 91
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-elongated-exhales",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "Elongated Exhales",
+              "prescription": "1 sets x 10-30 breaths",
+              "description": "Elongated exhales are an amazing way to activate your parasympathetic nervous system aka your 'rest and digest' state. They're a simple but very effective tool you can use when you are feeling stressed/anxious to reset yourself, but are also great to do at the end of a workout to start the recovery process immediately its high energy state from the workout. Cues: Sit or lay down (If sitting find a tall spine or sit against a wall if it helps). Close your eyes or take your gaze to a fixed spot e.g. the wall in front of you. Focus on the sensations of breathing (eg air coming into your nose, descending down into your lungs",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 92
+            },
+            {
+              "id": "phase-3-mobility-upper-body-focus-gym-and-back-out-again",
+              "phaseId": "phase-3",
+              "programId": "phase-3-mobility-upper-body-focus-gym",
+              "name": "and back out again).",
+              "prescription": "For up to 10-30 rounds of breath, exhale for twice",
+              "description": "the length of your inhale. For example you could: - Inhale for a count of 2, exhale for a count of 4 - Inhale for a count of 3, exhale for a count of 6 The number is less important, it's more important that the exhale is more prolongued than the inhale. This signals to your nervous system it is okay to relax:)",
+              "imageUrl": null,
+              "videoUrl": null,
+              "pageNumber": 92
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
