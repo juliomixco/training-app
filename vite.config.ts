@@ -6,7 +6,7 @@ const repositoryName =
   process.env.GITHUB_REPOSITORY?.split("/")[1] ?? "training-app";
 
 export default defineConfig(({ command }) => {
-  const base = command === "build" ? `/${repositoryName}/` : "/";
+  const base = `/${repositoryName}/`;
 
   return {
     base,
